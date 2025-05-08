@@ -504,10 +504,6 @@
     .portfolio h2 {
       margin-bottom: 3rem;
     }
-
-    .portfolio-container {
-      grid-template-columns: repeat(2, 1fr);
-    }
   }
 
   @media (max-width: 661px) {
